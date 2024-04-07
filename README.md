@@ -33,8 +33,3 @@ Bu proje, React kullanarak bir web uygulaması geliştirmeyi amaçlamaktadır. A
 4. Dalınıza itin: `git push origin yeni_dal`
 5. Bir birleştirme isteği (pull request) gönderin.
 
-## Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için [LICENSE](https://github.com/alicankocman/using_axios-react-/blob/main/LICENSE) dosyasına göz atın.
-
-Bu belge, [Markdown](https://guides.github.com/features/mastering-markdown/) formatında yazılmıştır.
